@@ -1,4 +1,4 @@
-package test.very_test._001;
+package exercises.very_easy._001;
 
 /**
  * Create a method that takes two integers as arguments and return their sum.
