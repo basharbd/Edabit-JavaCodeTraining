@@ -1,4 +1,4 @@
-package exercises.validation;
+package exercises.validation.very_easy;
 
 /**
  * Create a method that takes two integers as arguments and return their sum.
