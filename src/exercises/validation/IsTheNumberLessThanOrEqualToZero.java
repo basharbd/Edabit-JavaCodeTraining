@@ -1,4 +1,4 @@
-package exercises.validation.very_easy._003;
+package exercises.validation;
 
 /**
  *

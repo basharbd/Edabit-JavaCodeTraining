@@ -1,4 +1,4 @@
-package exercises.very_easy._002;
+package exercises.validation;
 
 /**
  * Are the Numbers Equal?

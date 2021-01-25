@@ -1,4 +1,4 @@
-package exercises.validation.very_easy._004;
+package exercises.validation;
 
 public class LessThan100 {
     public static void main(String[] args){
