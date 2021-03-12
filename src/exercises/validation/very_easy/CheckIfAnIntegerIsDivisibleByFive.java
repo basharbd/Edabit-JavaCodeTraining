@@ -14,8 +14,9 @@ package exercises.validation.very_easy;
  * Don't forget to return the result.
  * If you get stuck on a challenge, find help in the Resources tab.
  * If you're really stuck, unlock solutions in the Solutions tab.
+ *
  */
-public class CheckIfAnIntegerIsDivisibleByFive {
+public class CheckIfAnIntegerIsDivisibleByFive { //my first class
     public static void main (String[] args){
         System.out.println(divisibleByFive(11));
     }
