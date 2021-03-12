@@ -20,7 +20,7 @@ public class CheckIfAnIntegerIsDivisibleByFive { //my first class
     public static void main (String[] args){
         System.out.println(divisibleByFive(11));
     }
-    public static boolean divisibleByFive(int a){
+    public static boolean divisibleByFive(int a){hdfhdfhfgddgfbcb
         return a%5==0;
 
     }
